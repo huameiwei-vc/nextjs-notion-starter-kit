@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '19c92bcbba614af3a71ef4962e6eefde',
+  rootNotionPageId: 'c6643310199c46f58d42d314e24e28eb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '话梅味维C',
-  domain: 'https://www.notion.so/Home-19c92bcbba614af3a71ef4962e6eefde',
+  domain: 'https://www.notion.so/Plum-Flavor-VC-c6643310199c46f58d42d314e24e28eb',
   author: 'VC',
 
   // open graph metadata (optional)
